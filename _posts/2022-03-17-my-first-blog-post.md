@@ -1,1 +1,4 @@
-title:today is 2022-03-17
+---
+title: "Welcome to my blog"
+date: 2022-03-17
+---
